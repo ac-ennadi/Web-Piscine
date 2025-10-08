@@ -27,7 +27,7 @@ The goal of this project is to learn the basics of **HTML & CSS** and practice c
 Here’s what it looks like:
 
 <p align="center">
-    <img src="https://github.com/ac-ennadi/Web-Piscine/blob/main/notion_doc/items/Screenshot%202025-10-08%20214715.png" alt="Programming GIF" width="1920" />
+    <img src="https://github.com/ac-ennadi/Web-Piscine/blob/main/Notion-Landing-Page/items/Screenshot%202025-10-08%20214715.png" alt="Project Preview" width="1920" />
 </p>
 
 ---
