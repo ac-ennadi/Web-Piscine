@@ -43,4 +43,4 @@ Here’s what it looks like:
 ## 📂 How to Use
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/notion-landing-page.git
+   git clone git@github.com:ac-ennadi/Web-Piscine.git
